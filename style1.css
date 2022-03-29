@@ -1,0 +1,21 @@
+p{
+    text-align: right;
+}
+.encabezados{
+    color: red;
+    font-size: 36px;
+    text-align: center;
+
+}
+#noticias{
+    background-color: lightgrey;
+}
+#parrafos{
+    color: blue;
+    text-align: justify;
+}
+h3,h4,h5{
+    font-size: 20px;
+color: aqua;
+}
+
