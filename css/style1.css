@@ -1,0 +1,35 @@
+p{
+    text-align: center;
+
+
+}
+
+
+.encabezados{
+    color: red;
+    font-size: 36px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 900;
+}
+
+.parrafos{
+    color: blue;
+    font-weight: 400;
+    text-align: center;
+}
+h3,h4,h5{
+    font-size: 50px;
+color: aqua;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p{
+    enable-background: new;
+                                             
+}
+.arbusto{ display: flex;
+    animation: step-start;
+    width: 20px;
+    height: 20px;
+
+}
